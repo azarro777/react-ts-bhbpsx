@@ -1,0 +1,38 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/material": "^5.10.12",
+    "@nivo/bar": "^0.80.0",
+    "@nivo/chord": "^0.80.0",
+    "@nivo/circle-packing": "^0.80.0",
+    "@nivo/core": "^0.80.0",
+    "@nivo/funnel": "^0.80.0",
+    "@nivo/line": "^0.80.0",
+    "@nivo/marimekko": "^0.80.0",
+    "@nivo/pie": "^0.80.0",
+    "@nivo/radar": "^0.80.0",
+    "@nivo/radial-bar": "^0.80.0",
+    "@nivo/stream": "^0.80.0",
+    "@nivo/tooltip": "0.80.0",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "prop-types": ">= 15.5.10 < 16.0.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

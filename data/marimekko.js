@@ -1,0 +1,42 @@
+export const marimekko = [
+  {
+    statement: "it's good",
+    participation: 26,
+    stronglyAgree: 32,
+    agree: 14,
+    disagree: 5,
+    stronglyDisagree: 16,
+  },
+  {
+    statement: "it's sweet",
+    participation: 23,
+    stronglyAgree: 20,
+    agree: 6,
+    disagree: 19,
+    stronglyDisagree: 11,
+  },
+  {
+    statement: "it's spicy",
+    participation: 15,
+    stronglyAgree: 3,
+    agree: 24,
+    disagree: 20,
+    stronglyDisagree: 28,
+  },
+  {
+    statement: 'worth eating',
+    participation: 27,
+    stronglyAgree: 20,
+    agree: 22,
+    disagree: 9,
+    stronglyDisagree: 11,
+  },
+  {
+    statement: 'worth buying',
+    participation: 12,
+    stronglyAgree: 16,
+    agree: 21,
+    disagree: 30,
+    stronglyDisagree: 13,
+  },
+];
