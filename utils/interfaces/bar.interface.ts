@@ -1,9 +1,8 @@
 export default interface IBar {
   data: {
-    county: string;
+    county: Country;
   };
 }
-
 
 /**
  type CountryStyle
@@ -11,3 +10,7 @@ export default interface IBar {
    [key" string]: 
  }
  */
+
+//  stream {
+//    [key: string]: number
+//  }
